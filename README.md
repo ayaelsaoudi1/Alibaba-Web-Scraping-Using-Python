@@ -50,4 +50,3 @@ The data is scraped from the following Alibaba product page:
 
 Feel free to fork this repository and submit pull requests if you have suggestions for improvements.
 
----
