@@ -10,7 +10,7 @@ The project is focused on extracting the following data:
 - Quantity
 - Timestamp of when the data was collected
 
-The data is then saved to a CSV file for further analysis or processing.
+The data is then saved to a CSV file for further analysis or processing. [alibaba_data_scraped.csv](https://github.com/ayaelsaoudi1/Alibaba-Web-Scraping-Using-Python/blob/main/alibaba_data_scraped.csv)
 
 ---
 
