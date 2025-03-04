@@ -13,7 +13,7 @@ This part focuses on extracting data from a single Alibaba product page. The ext
 - **Quantity**
 - **Timestamp of Data Collection**
 
-The data is saved into a CSV file: [`alibaba_data_scraped.csv`](https://github.com/ayaelsaoudi1/Alibaba-Web-Scraping-Using-Python/blob/main/alibaba_data_scraped.csv).
+The data is saved into a CSV file: [`alibaba_data_scraped_part1.csv`](https://github.com/ayaelsaoudi1/Alibaba-Web-Scraping-Using-Python/blob/main/alibaba_data_scraped_part1.csv).
 
 #### **Data Source for Part One**
 [Alibaba Product Page](https://www.alibaba.com/product-detail/MereSports-Men-s-100-Merino-Wool_1601352569953.html?spm=a2700.galleryofferlist.p_offer.d_image.f0d313a0eX1fnF&s=p)
@@ -36,7 +36,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone <[https://github.com/ayaelsaoudi1/Alibaba-Web-Scraping-Using-Python.git]>
    cd Alibaba-Web-Scraping-Using-Python
    ```
 
@@ -45,19 +45,6 @@ To get started with this project, follow these steps:
    ```bash
    pip install requests beautifulsoup4 pandas
    ```
-
-3. **Run the scripts**:
-   - **For Part One (Single Product Page Scraping)**:
-     ```bash
-     python alibaba_scraper_part1.py
-     ```
-   - **For Part Two (Multiple Listings Scraping)**:
-     ```bash
-     python alibaba_scraper_part2.py
-     ```
-
-The extracted data will be saved in CSV format inside the project directory.
-
 ---
 
 ## **Contributing**
