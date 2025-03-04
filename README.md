@@ -36,7 +36,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <[https://github.com/ayaelsaoudi1/Alibaba-Web-Scraping-Using-Python.git]>
+   git clone <https://github.com/ayaelsaoudi1/Alibaba-Web-Scraping-Using-Python.git>
    cd Alibaba-Web-Scraping-Using-Python
    ```
 
